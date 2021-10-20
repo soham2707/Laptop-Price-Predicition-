@@ -42,6 +42,24 @@ The generation of the processor is proportional to the price. Laptops with Intel
 ![UI](7.png)
 
 7.**Scatter Plot on Company vs Ram vs Operating System vs Price vs CPU vs Memory:**
+
 This a moving graph but due to some unavoidable circumstances moving graph is not able to upload.
 ![UI](8.JPG)
 
+Machine Learning Algorithms:
+-----
+**Linear Regression:**
+
+Linear Regression is a machine learning algorithm based on supervised learning. It performs a regression task. Regression models a target prediction value based on independent variables. It is mostly used for finding out the relationship between variables and forecasting. Different regression models differ based on — the kind of relationship between dependent and independent variables, they are considering and the number of independent variables being used.
+
+Linear regression performs the task to predict a dependent variable value (y) based on a given independent variable (x). So, this regression technique finds out a linear relationship between x (input) and y(output). Hence, the name is Linear Regression. y=ax+c
+<p align="middle">
+    <img src="https://miro.medium.com/max/2000/0*OsEmBJIRKfZKRCmf.jpeg" width="770" height="570">
+  </p>
+  
+ **Random Forest:**
+ 
+Random forests or random decision forests are an ensemble learning method for classification, regression, and other tasks that operates by constructing a multitude of decision trees at training time. For classification tasks, the output of the random forest is the class selected by most trees. For regression tasks, the mean or average prediction of the individual trees is returned. Random decision forests correct for decision trees’ habit of overfitting to their training set 587–588 Random forests generally outperform decision trees, but their accuracy is lower than gradient boosted trees. However, data characteristics can affect their performance.
+<p align="middle">
+    <img src="https://miro.medium.com/max/700/0*pKTTkYeiG9V_C6f2.png" width="770" height="570">
+  </p>
