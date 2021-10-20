@@ -18,8 +18,19 @@
 Analysis:
 -----
 Here we use plotly for analysis.
+
 1.**Bar Plot on Distribution of Companies of Laptop:**
 ![UI](1.png)
-The distribution of Lenovo, Dell, HP laptops are almost. It means that those are the highest selling laptops currently.
+We can see that the distribution of Lenovo, Dell, HP laptops are almost. It means that those are the highest selling laptops currently.
 
 2.**The histogram on Ram vs Price in Euros:**
+![UI](2.png)
+3.**Scatter Plot on RAM vs Price vs Company:**
+![UI](3.png)
+The memory size is inversely proportional with the price of euros and the selling rate of higher price laptops is very less.
+![UI](1.png)
+![UI](1.png)
+![UI](1.png)
+![UI](1.png)
+![UI](1.png)
+![UI](1.png)
