@@ -85,3 +85,27 @@ When data are unlabelled, supervised learning is not possible, and an unsupervis
 <p align="middle">
     <img src="https://miro.medium.com/max/700/0*mBy2vZMo3UKygY2T.png" width="770" height="570">
   </p>
+DEVELOPERS
+------
+<!--
+<p align="left">
+    <a href="https://www.linkedin.com/in/soham-nandi-b39288215/" target="_blank"><u>Soham Nandi</u></a>
+<a href="https://www.linkedin.com/in/pinaki-subhra-bhattacharya-1a6566217/" target="_blank"><u>Pinaki Subhra Bhattacharya </u></a> <br>
+</p>
+-->
+
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Soham-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/soham-nandi-b39288215/) 
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Pinaki-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/pinaki-subhra-bhattacharya-1a6566217/) 
+
+
+Blog:
+----
+
+Check out the Medium article ,where Pinaki have explained in detail.
+
+[Blog Link](https://medium.com/analytics-vidhya/laptop-price-prediction-by-machine-learning-7e1211bb96d1)
+
+THANK YOU
+-----
