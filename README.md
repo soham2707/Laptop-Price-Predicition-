@@ -34,8 +34,9 @@ The memory size is inversely proportional with the price of euros and the sellin
 The generation of the processor is proportional to the price. Laptops with Intel, AMD processors are the highest selling laptops here.
 5.**Bar Plot on Distribution of Operating Systems of Laptop:**
 ![UI](6.png)
-6.**Scatter Plot on Company vs Ram vs Operating System vs Price vs CPU vs Memory:**
+6.**Pie Chart on Company vs Operating System vs Price:**
 ![UI](7.png)
+7.**Scatter Plot on Company vs Ram vs Operating System vs Price vs CPU vs Memory:**
 This a moving graph but due to some unavoidable circumstances moving graph is not able to upload.
-![UI](1.png)
-![UI](1.png)
+![UI](8.JPG)
+
