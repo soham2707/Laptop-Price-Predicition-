@@ -25,17 +25,22 @@ We can see that the distribution of Lenovo, Dell, HP laptops are almost. It mean
 
 2.**The histogram on Ram vs Price in Euros:**
 ![UI](2.png)
+
 3.**Scatter Plot on RAM vs Price vs Company:**
 ![UI](3.png)
 The memory size is inversely proportional with the price of euros and the selling rate of higher price laptops is very less.
+
 4.**Scatter Plot on CPU vs Price vs Company:**
 ![UI](4.png)
 ![UI](5.png)
 The generation of the processor is proportional to the price. Laptops with Intel, AMD processors are the highest selling laptops here.
+
 5.**Bar Plot on Distribution of Operating Systems of Laptop:**
 ![UI](6.png)
+
 6.**Pie Chart on Company vs Operating System vs Price:**
 ![UI](7.png)
+
 7.**Scatter Plot on Company vs Ram vs Operating System vs Price vs CPU vs Memory:**
 This a moving graph but due to some unavoidable circumstances moving graph is not able to upload.
 ![UI](8.JPG)
