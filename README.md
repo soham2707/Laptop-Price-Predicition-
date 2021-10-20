@@ -14,3 +14,12 @@
  GOAL:
  ----
  Minimize the "loss error".
+
+Analysis:
+-----
+Here we use plotly for analysis.
+1.**Bar Plot on Distribution of Companies of Laptop:**
+![UI](1.png)
+The distribution of Lenovo, Dell, HP laptops are almost. It means that those are the highest selling laptops currently.
+
+2.**The histogram on Ram vs Price in Euros:**
