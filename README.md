@@ -63,3 +63,14 @@ Random forests or random decision forests are an ensemble learning method for cl
 <p align="middle">
     <img src="https://miro.medium.com/max/700/0*pKTTkYeiG9V_C6f2.png" width="770" height="570">
   </p>
+
+**Decision Tree:**
+
+A decision tree is a decision support tool that uses a tree-like model of decisions and their possible consequences, including chance event outcomes, resource costs, and utility. It is one way to display an algorithm that only contains conditional control statements.
+
+Decision trees are commonly used in operations research, specifically in decision analysis, to help identify a strategy most likely to reach a goal, but are also a popular tool in machine learning.
+
+A decision tree is a flowchart-like structure in which each internal node represents a “test” on an attribute (e.g. whether a coin flip comes up heads or tails), each branch represents the outcome of the test, and each leaf node represents a class label (decision taken after computing all attributes). The paths from the root to the leaf represent classification rules.
+<p align="middle">
+    <img src="https://miro.medium.com/max/700/0*M8Mv_zFbqJ-XLrfs.png" width="770" height="570">
+  </p>
